@@ -1,16 +1,14 @@
-### Hi there 👋
+# hi, i'm prefetcher.
+* 2nd year cs student at the Lublin University of Technology
+* massive fan of late 90s - early 00s computing, especially anything surrounding the Adobe Flash technology
+* devout C# advocate, occasionally dabbling in other languages (Python, Lua, Ruby, F#, etc)
 
-<!--
-**purifetchi/purifetchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**notable projects:**
 
-Here are some ideas to get you started:
+[MicroWorks](https://store.steampowered.com/app/1233410/MicroWorks/) - a multiplayer party game, developed as part of @agirikodigital
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[awoo](https://github.com/dangeru/awoo) - the textboard system powering the danger/u/ message board.
+
+[Tako](https://github.com/naomiEve/Tako) - an extensible & moddable server for Minecraft Classic and its clones.
+
+[Moco](https://github.com/naomiEve/Moco) - a dumb emulator for flash's SWF files.
