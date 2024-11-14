@@ -1,5 +1,5 @@
 # hi, i'm prefetcher.
-* 2nd year cs student at the Lublin University of Technology
+* 3rd year cs student at the Lublin University of Technology
 * massive fan of late 90s - early 00s computing, especially anything surrounding the Adobe Flash technology
 * devout C# advocate, occasionally dabbling in other languages (Python, Lua, Ruby, F#, etc)
 
