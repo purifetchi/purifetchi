@@ -1,5 +1,5 @@
 # hi, i'm prefetcher.
-* 3rd year cs student at the Lublin University of Technology
+* final year cs student at the Lublin University of Technology
 * lead developer @ [Agiriko](https://agiriko.digital)
 * massive fan of late 90s - early 00s computing, especially anything surrounding the Adobe Flash technology
 * devout C# advocate, occasionally dabbling in other languages (Python, Lua, Ruby, F#, etc)
